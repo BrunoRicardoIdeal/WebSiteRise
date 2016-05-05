@@ -106,7 +106,7 @@ a.navbar-brand {
 	background-color:#000;
 }
 .banner {
-	background:url(../images/1.jpg) no-repeat;
+	background:url(../images/tec.jpg) no-repeat;
 	min-height:600px;
 	background-position:center;
 	background-size:cover;
@@ -373,7 +373,7 @@ a.right.carousel-control {
 .team {
 	background-color:#fff;
 	padding:3em 0;
-	background:url(../images/team.jpg) no-repeat;
+	background:url(../images/teclado.jpg) no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size:100% 100%;
@@ -442,6 +442,26 @@ a.right.carousel-control {
 	background-color:rgb(247, 247, 247);
 	padding: 20px 0 60px;
 }
+.contact-us h1 {
+	color:#656565;
+	text-transform:uppercase;
+	font-size:15px;
+	margin:2% auto;
+	padding: 15px 0;
+}
+}
+.contact-us p1 {
+	padding: 5px 0;
+    font-size: 16px;
+}
+.contact-us h2 {
+	color:#656565;
+	text-transform:uppercase;
+	font-size:25px;
+	margin:2% auto;
+	padding: 15px 0;
+}
+
 .contact-us h3 {
 	color:#656565;
 	text-transform:uppercase;
